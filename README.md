@@ -12,8 +12,8 @@
 
 - 🎓 I am a <strong>student</strong> of <strong>Computer Engineering</strong> at <a href="https://computaciongye.ups.edu.ec" target="_blank">Universidad Politécnica Salesiana</a>.
 - 💻 I love using software as a solution for every problem.
-- 🤓 I’m a curious learner.
-- 🌱 I’m constantly exploring web development.
+- 🤓 Currently learning .
+
 
 <br>
 
